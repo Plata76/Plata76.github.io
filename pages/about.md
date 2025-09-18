@@ -9,6 +9,6 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
 
-# About
+# Chrisflix
 
 En esta sitio encontraras varios tipos y diversas peliculas en los cuales te puedes adentrar y explorar.
